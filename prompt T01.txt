@@ -7,4 +7,4 @@ input dan hasil output- an nya juga harus rapi.
 
 disini aku minta kamu hanya menyelesaikan T01 saja dahulu, berikan langsung kode yang bisa kupindahkan ke driver dan model. untuk kerjakan T01 kamu harus lihat isi gambar informasi pendukungnya seperti yang sudah kulampirkan
 
-jangan ubah nama driver nya, tetap dengan driver 1 driver 2 dan driver 3, sesuai dengan yg ada pada file
+jangan ubah nama driver nya, tetap dengan driver 1 driver 2 dan driver 3, sesuai dengan yg ada pada file.
