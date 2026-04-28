@@ -1,0 +1,9 @@
+selanjutnya, dengan instruksi yang sama seperti diatas, baca dan pahami lah instruksi t02 kali ini untuk membuat program yang mampu menentukan total stok hanya untuk kategori barang yang diminta.
+
+
+
+berikan langsung kode yang bisa kupindahkan ke driver dan model. gunakan informasi pendukung yang ada pada gambar yang kulampirkan
+
+kenapa driver 2 nya seperti tidak menerima inputan atau tak ada menu yg ditampilkan?
+
+ya, seperti driver 1 yang menerima inputan

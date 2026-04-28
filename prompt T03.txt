@@ -1,0 +1,12 @@
+1. selanjutnya kita masuk ke bagian T03. juga kerjakan dengan instruksi yang sama. namun untuk kasus ini aku mau ceritakan kafetaria it del itu ngapain.
+jadi kafe ini menjual berbagai makanan dan minuman yang dapat kita pesan baik secara manual(datang langsung) dan pesan melalui wa, namun kadang jika kita pesan sering tak ada/habis stok.
+bantu aku bangun untuk membangun sistem informasi yang mendukung operasionalnya.
+
+
+berikan model dan driver 3 yang bisa langsung aku pindahkan ke vscodenya
+
+2. setelah lihat outputnya, aku mau tambah informasi kalau pesanannya bisa diambil sendiri atau diantar, kalau diantar ada fee bertambah seharga 2rb 
+
+3. tapi in kan cuma hanya bisa pesan 1 menu lalu lgsg pilih metode selanjutnya, kalau aku mau pilih beberapa menu dan beberapa jumlah sekaligus gimana? perbarui untuk itu juga
+
+4. hapus methodnya, gaperlu ada method manual atau wa
