@@ -1,0 +1,10 @@
+bersikaplah sebagai developer yang sudah ahli dalam membangun sebuah program sistem informasi. disini kamu akan membangun sebuah program yang menggunakan bahasa java yang akan dieksekusi dalam VS Code, menggunakan java jdk 21. 
+
+program ini punya batasan dimana hanya akan menerapkan materi materi OOP yang sudah dipelajari saja, yaitu Data & Data types, Variables & Constant, Writing Class, String & User Input, Array, Control Structure: Branching & Repetition, Class & Object Context, class relationship, java collection and packages, inheritance dan abstract class, polymorphism, interface, Enum, nested construct, generics, and record. local class, anonymous class. 
+
+baca dengan teliti keseluruhan isi file agar kamu dapat mengerjkannya dengan baik. berikan code yang clean dan hanya sedikit comment per line nya.
+input dan hasil output- an nya juga harus rapi.
+
+disini aku minta kamu hanya menyelesaikan T01 saja dahulu, berikan langsung kode yang bisa kupindahkan ke driver dan model. untuk kerjakan T01 kamu harus lihat isi gambar informasi pendukungnya seperti yang sudah kulampirkan
+
+jangan ubah nama driver nya, tetap dengan driver 1 driver 2 dan driver 3, sesuai dengan yg ada pada file
